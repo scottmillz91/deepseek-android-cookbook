@@ -1,2 +1,8 @@
-# deepseek-android-cookbook
-20 tested ways normal people can use the free DeepSeek Android app to save time.
+# DeepSeek Android Cookbook
+Tested workflows for the free DeepSeek Android app.
+
+## What this is
+A normal person's guide to using DeepSeek on Android for real tasks.
+
+## Who it's for
+Students, job seekers, small business owners, parents, anyone who wants practical AI workflows.
