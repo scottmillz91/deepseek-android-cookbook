@@ -9,3 +9,5 @@ Students, job seekers, small business owners, parents, anyone who wants practica
 
 ## Workflows
 1. [Messy brain-dump → 3-task plan](01-brain-dump-to-plan.md)
+2. [Job description → Resume bullets](02-job-description-to-resume.md)
+3. [Long article → Study notes](03-article-to-study-notes.md)
